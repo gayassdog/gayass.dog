@@ -153,6 +153,11 @@ nav ul li {
     position:  relative;
 }
 
+.brain{
+    text-align: right;
+    margin: 100px;
+}
+
 .boccher {
     width: 100px;
 
@@ -170,5 +175,11 @@ nav ul li {
 .creatuer {
     position: fixed;
     right: 8%;
+    bottom: 0;
+}
+
+.homeButton {
+    position:  fixed;
+    right:  0;
     bottom: 0;
 }
