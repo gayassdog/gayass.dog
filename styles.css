@@ -178,6 +178,12 @@ nav ul li {
     bottom: 0;
 }
 
+.eart {
+    position: fixed;
+    left: 6%;
+    top: 30%;
+}
+
 .homeButton {
     position:  fixed;
     right:  0;
