@@ -180,8 +180,9 @@ nav ul li {
 
 .eart {
     position: fixed;
-    left: 6%;
-    top: 30%;
+    left: 10px;
+    top: 10px;
+    z-index: -1;
 }
 
 .homeButton {
